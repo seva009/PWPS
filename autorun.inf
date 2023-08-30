@@ -1,0 +1,14 @@
+[autorun]
+
+icon=icon.ico
+
+open=PWPS.exe
+
+action=run
+
+[content]
+MusicFiles=false
+
+PictureFiles=false
+
+VideoFiles=false
